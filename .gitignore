@@ -1,9 +1,18 @@
 *
 
+!/.gitignore
+!/.babelrc
 !/*.json
 !/*.js
-!/.gitignore
+!/readme.md
 
 
-!scripts/
-!src/
+
+!/scripts
+!/scripts/**
+
+
+!/src/
+!/src/**
+
+**dist**
