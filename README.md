@@ -1,3 +1,6 @@
+# !!!DEPRECATED!!!
+
+
 # eshop
 
 under development
